@@ -1,0 +1,15 @@
+/Users/zelamkh/C#Homework2/C#HW.Task13/bin/Debug/net6.0/C#HW.Task13
+/Users/zelamkh/C#Homework2/C#HW.Task13/bin/Debug/net6.0/C#HW.Task13.deps.json
+/Users/zelamkh/C#Homework2/C#HW.Task13/bin/Debug/net6.0/C#HW.Task13.runtimeconfig.json
+/Users/zelamkh/C#Homework2/C#HW.Task13/bin/Debug/net6.0/C#HW.Task13.dll
+/Users/zelamkh/C#Homework2/C#HW.Task13/bin/Debug/net6.0/C#HW.Task13.pdb
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.csproj.AssemblyReference.cache
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.AssemblyInfoInputs.cache
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.AssemblyInfo.cs
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.dll
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/refint/C#HW.Task13.dll
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.pdb
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/C#HW.Task13.genruntimeconfig.cache
+/Users/zelamkh/C#Homework2/C#HW.Task13/obj/Debug/net6.0/ref/C#HW.Task13.dll
