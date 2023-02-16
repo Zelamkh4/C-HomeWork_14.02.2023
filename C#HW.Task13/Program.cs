@@ -10,10 +10,10 @@
 Console.Write("Enter number: ");
 
 int anyNumber = Convert.ToInt32(Console.ReadLine());
-string anyNumberText = Convert.ToString(anyNumber);
+string anyNumberTest = Convert.ToString(anyNumber);
 
-if (anyNumberText.Length > 2){
-  Console.WriteLine("third num -> " + anyNumberText[2]);
+if (anyNumberTest.Length > 2){
+  Console.WriteLine("third num -> " + anyNumberTest[2]);
 }
 
 else {
