@@ -1,0 +1,15 @@
+/Users/zelamkh/C#Homework2/C#HW.Task10/bin/Debug/net6.0/C#HW.Task10
+/Users/zelamkh/C#Homework2/C#HW.Task10/bin/Debug/net6.0/C#HW.Task10.deps.json
+/Users/zelamkh/C#Homework2/C#HW.Task10/bin/Debug/net6.0/C#HW.Task10.runtimeconfig.json
+/Users/zelamkh/C#Homework2/C#HW.Task10/bin/Debug/net6.0/C#HW.Task10.dll
+/Users/zelamkh/C#Homework2/C#HW.Task10/bin/Debug/net6.0/C#HW.Task10.pdb
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.csproj.AssemblyReference.cache
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.AssemblyInfoInputs.cache
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.AssemblyInfo.cs
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.csproj.CoreCompileInputs.cache
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.dll
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/refint/C#HW.Task10.dll
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.pdb
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/C#HW.Task10.genruntimeconfig.cache
+/Users/zelamkh/C#Homework2/C#HW.Task10/obj/Debug/net6.0/ref/C#HW.Task10.dll
